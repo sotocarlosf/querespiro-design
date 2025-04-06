@@ -1,0 +1,1 @@
+El usuario podrá leer información sobre STGuimel y ser redireccionado al sitio oficial de STGuimel. 

@@ -1,0 +1,1 @@
+El usuario podrá acceder a la página de inicio del Dashboard

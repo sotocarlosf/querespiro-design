@@ -1,0 +1,1 @@
+El sistema da al usuario predicciones del nivel de contaminación para el día siguiente.

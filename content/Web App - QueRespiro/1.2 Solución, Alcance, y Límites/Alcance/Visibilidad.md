@@ -1,0 +1,1 @@
+El sistema no contará con manejo de cuentas de usuario. Contendrá información para uso público y para toda la población.

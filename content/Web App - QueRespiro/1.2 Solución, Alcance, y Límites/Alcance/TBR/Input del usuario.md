@@ -1,0 +1,1 @@
+El usuario podrá colocar un pin que permita a la aplicación saber si hay un incendio o alguna fogata en su punto de localización del mapa.

@@ -1,0 +1,1 @@
+El usuario podrá leer información detallada sobre qué hace esta aplicación. Así como el objetivo y misión de QueRespiro.
